@@ -19,4 +19,4 @@ Foi um desafio bem básico para quem realmente é iniciante (igual eu), me diver
 
 ## Site abaixo
 
-- 
+- <a href="https://rafaelsilvafernandes.github.io/blog-preview-card-main/"> aqui </a>
